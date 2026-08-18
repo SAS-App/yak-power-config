@@ -1,3 +1,10 @@
 {
-  "packs": []
+  "packs": [
+    {
+      "name": "Self test",
+      "file": "_selftest-delete-me.bin",
+      "channels": 8,
+      "description": "temporary \u2014 removed by the self-test"
+    }
+  ]
 }
