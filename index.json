@@ -1,3 +1,10 @@
 {
-  "packs": []
+  "packs": [
+    {
+      "name": "oem-presets.bin",
+      "file": "oem-presets.bin",
+      "channels": 8,
+      "description": ""
+    }
+  ]
 }
