@@ -1,7 +1,7 @@
 {
   "packs": [
     {
-      "name": "htfe",
+      "name": "bob",
       "file": "oem-presets.bin",
       "channels": 8,
       "description": ""
